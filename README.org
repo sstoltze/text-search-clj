@@ -1,0 +1,4 @@
+* text-search-clj
+A small project, written to learn a bit about Clojure. It will eventually be a reimplementation of a similar project written in Haskell, [[https://github.com/sstoltze/text-search][text-search]]. For now it does nothing.
+
+It is built using [[https://leiningen.org/][Leiningen]].
